@@ -40,10 +40,3 @@ Yes, via the integrated App Center with over 1,000 `.deb` and `.AppImage` packag
 **Does it support Real-Time Kernel?**  
 Yes, a one-click utility is included to install and configure it.
 
-## 🖼 Screenshots
-
-![Custom Cinnamon Desktop](assets/screenshot/desktop.png)  
-*A clean and elegant interface inspired by macOS.*
-
-![App Center](assets/screenshot/app-center.png)  
-*Access to thousands of professional-grade applications
